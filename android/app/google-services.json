@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104407269868",
+    "project_id": "virtual-visiting-card-viper",
+    "storage_bucket": "virtual-visiting-card-viper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104407269868:android:00494aef897f47857a00c9",
+        "android_client_info": {
+          "package_name": "com.example.virtualVisitingCardViper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7esb0DLkchUanlqFL4DpW1umq8LNzl0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

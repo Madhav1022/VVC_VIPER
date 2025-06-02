@@ -1,0 +1,2 @@
+/Users/prabinasharma/StudioProjects/virtual_visiting_card_viper/android/app/.cxx/Debug/1z2o6qd1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/prabinasharma/StudioProjects/virtual_visiting_card_viper/android/app/.cxx/Debug/1z2o6qd1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
